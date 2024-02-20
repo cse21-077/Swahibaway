@@ -1,0 +1,42 @@
+# Query: L1.jpg
+# ContextLines: 1
+
+9 results - 2 files
+
+index.html:
+   25          <div class="container">
+   26:             <a class="navbar-brand logo-image" href="index.html"><img src="images/L1.jpg" alt="alternative"></a> 
+   27                 <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
+
+  498                          <div class="card-image">
+  499:                             <img class="img-fluid" src="images/L1.png" alt="alternative">
+  500                          </div>
+
+  511                          <div class="card-image">
+  512:                             <img class="img-fluid" src="images/L1.jpg" alt="alternative">
+  513                          </div>
+
+  524                          <div class="card-image">
+  525:                             <img class="img-fluid" src="images/L1.jpg" alt="alternative">
+  526                          </div>
+
+  537                          <div class="card-image">
+  538:                             <img class="img-fluid" src="images/L1.jpg" alt="alternative">
+  539                          </div>
+
+  550                          <div class="card-image">
+  551:                             <img class="img-fluid" src="images/L1.jpg" alt="alternative">
+  552                          </div>
+
+  563                          <div class="card-image">
+  564:                             <img class="img-fluid" src="images/L1.jpg" alt="alternative">
+  565                          </div>
+
+  576                          <div class="card-image">
+  577:                             <img class="img-fluid" src="images/L1.jpg" alt="alternative">
+  578                          </div>
+
+terms.html:
+  25  	<!-- Favicon  -->
+  26:     <link rel="icon" href="images/L1.jpg">
+  27  </head>
